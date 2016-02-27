@@ -1,7 +1,7 @@
 package org.et
 
 /**
- * Created by Biniam Asnake.
+ * Created by .
  */
 abstract class AbstractDomain {
 
