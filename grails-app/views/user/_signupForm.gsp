@@ -5,7 +5,7 @@
   Time: 7:41 AM
 --%>
 
-<%@ page import="org.disektea.GenderEnum;" %>
+<%@ page import="org.et.GenderEnum;" %>
 
 <div class="form-group">
     <label for="firstName" class="col-sm-4 control-label">

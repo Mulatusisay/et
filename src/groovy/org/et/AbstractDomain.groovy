@@ -1,4 +1,4 @@
-package org.disektea
+package org.et
 
 /**
  * Created by Biniam Asnake.

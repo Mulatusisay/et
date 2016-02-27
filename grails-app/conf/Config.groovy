@@ -118,10 +118,10 @@ log4j.main = {
 }
 
 // Added by the Spring Security Core plugin:
-grails.plugin.springsecurity.userLookup.userDomainClassName = 'org.disektea.User'
-grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'org.disektea.UserRole'
-grails.plugin.springsecurity.authority.className = 'org.disektea.Role'
-grails.plugin.springsecurity.requestMap.className = 'org.disektea.Requestmap'
+grails.plugin.springsecurity.userLookup.userDomainClassName = 'org.et.User'
+grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'org.et.UserRole'
+grails.plugin.springsecurity.authority.className = 'org.et.Role'
+grails.plugin.springsecurity.requestMap.className = 'org.et.Requestmap'
 grails.plugin.springsecurity.securityConfigType = 'Requestmap'
 
 // Additional SpringSecurity Configurations

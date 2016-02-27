@@ -1,4 +1,4 @@
-package org.disektea
+package org.et
 
 import grails.transaction.Transactional
 

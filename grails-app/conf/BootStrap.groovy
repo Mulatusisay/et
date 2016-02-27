@@ -1,8 +1,8 @@
 import grails.util.Environment
-import org.disektea.Blog
-import org.disektea.GenderEnum
-import org.disektea.Requestmap
-import org.disektea.User
+import org.et.Blog
+import org.et.GenderEnum
+import org.et.Requestmap
+import org.et.User
 
 class BootStrap {
 

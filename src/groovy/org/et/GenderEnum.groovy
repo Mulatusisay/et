@@ -1,4 +1,4 @@
-package org.disektea;
+package org.et;
 
 /**
  * Created by yosephabate on 1/21/16.

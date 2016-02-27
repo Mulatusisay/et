@@ -1,4 +1,4 @@
-package org.disektea
+package org.et
 
 import org.apache.commons.lang.builder.HashCodeBuilder
 
