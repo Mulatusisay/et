@@ -1,2 +1,2 @@
-# disektea-blog
-Blogging system
+# et log
+p&s system
